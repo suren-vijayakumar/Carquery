@@ -1,0 +1,51 @@
+
+body{
+	background-color:#c0a16b;
+
+
+}
+
+.header{
+	text-align: center;
+	font-family:sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 35px;
+	/*font-weight: bold;*/
+}
+h3{
+	font-size: 25px;
+	margin-top: 2px;
+}
+
+h4{
+	font-size: 18px;
+	margin-top: 2px;
+}
+
+.formclass {
+	align-content: center;
+	border: 10px ;
+	padding: 10px;
+}
+
+#searchCar {
+	border: 2px solid #000;
+	border-radius: 7px;
+	padding-left: 5px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+.submit {
+	border-radius: 5px;
+	width: 100px;
+	margin-left: 5px;
+}
+
+
+
+
